@@ -5,3 +5,8 @@
 
 ## service 架构
 * [Istio](https://zhuanlan.zhihu.com/p/29586032)
+* [tyk] (https://tyk.io/)
+* [kong]（https://getkong.org/
+* [apigee] (https://apigee.com/api-management/#/homepage)
+* [nginx plus] (https://apigee.com/api-management/#/homepage)
+* [apiumbrella] (https://apiumbrella.io/)
