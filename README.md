@@ -4,7 +4,8 @@
 * [JS代码分格](https://github.com/airbnb/javascript)
 * [JS运行机制](https://segmentfault.com/a/1190000012925872)
 * [V8-引擎](https://zhuanlan.zhihu.com/p/27628685)
-* [nodejs-event-loop](http://voidcanvas.com/nodejs-event-loop/) -- [翻译](https://www.zcfy.cc/article/node-js-event-loop-workflow-lifecycle-in-low-level-void-canvas)
+* [nodejs-event-loop](https://www.zcfy.cc/article/node-js-event-loop-workflow-lifecycle-in-low-level-void-canvas)
+* [array 演变和性能](https://www.zcfy.cc/article/diving-deep-into-javascript-array-8211-evolution-038-performance-void-canvas)
 
 ## service 架构
 * [Istio](https://zhuanlan.zhihu.com/p/29586032)
