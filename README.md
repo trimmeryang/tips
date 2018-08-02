@@ -7,6 +7,7 @@
 * [nodejs-event-loop](https://www.zcfy.cc/article/node-js-event-loop-workflow-lifecycle-in-low-level-void-canvas)
 * [array 演变和性能](https://www.zcfy.cc/article/diving-deep-into-javascript-array-8211-evolution-038-performance-void-canvas)
 * [内存泄漏](https://segmentfault.com/a/1190000015569915)
+* [nodejs heapdump抓取内存快照](https://zhuanlan.zhihu.com/p/25736931)
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 ## service 架构
