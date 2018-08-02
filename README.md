@@ -4,6 +4,7 @@
 * [JS代码分格](https://github.com/airbnb/javascript)
 * [JS运行机制](https://segmentfault.com/a/1190000012925872)
 * [V8-引擎](https://zhuanlan.zhihu.com/p/27628685)
+* [nodejs-event-loop](http://voidcanvas.com/nodejs-event-loop/)
 
 ## service 架构
 * [Istio](https://zhuanlan.zhihu.com/p/29586032)
