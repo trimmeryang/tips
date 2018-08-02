@@ -6,6 +6,7 @@
 * [V8-引擎](https://zhuanlan.zhihu.com/p/27628685)
 * [nodejs-event-loop](https://www.zcfy.cc/article/node-js-event-loop-workflow-lifecycle-in-low-level-void-canvas)
 * [array 演变和性能](https://www.zcfy.cc/article/diving-deep-into-javascript-array-8211-evolution-038-performance-void-canvas)
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 ## service 架构
 * [Istio](https://zhuanlan.zhihu.com/p/29586032)
