@@ -9,6 +9,7 @@
 * [内存泄漏](https://segmentfault.com/a/1190000015569915)
 * [nodejs heapdump抓取内存快照](https://zhuanlan.zhihu.com/p/25736931)
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+* [vue-mvvm](https://github.com/trimmeryang/mvvm)--[图](https://github.com/trimmeryang/tips/blob/master/image/vue%E6%89%A7%E8%A1%8C%E5%9B%BE.png)
 
 ## service 架构
 * [Istio](https://zhuanlan.zhihu.com/p/29586032)
