@@ -11,6 +11,7 @@
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [vue-mvvm](https://github.com/trimmeryang/mvvm)--[图](https://github.com/trimmeryang/tips/blob/master/image/vue%E6%89%A7%E8%A1%8C%E5%9B%BE.png)
 * 代码规范： 1 [airbnb](http://airbnb.io/javascript/) 2 [prettier](https://prettier.io/)
+* [工具类] (https://github.com/Wscats/CV/issues/27)
 
 ## service 架构
 * [Istio](https://zhuanlan.zhihu.com/p/29586032)
@@ -19,3 +20,6 @@
 * [apigee] (https://apigee.com/api-management/#/homepage)
 * [nginx plus] (https://apigee.com/api-management/#/homepage)
 * [apiumbrella] (https://apiumbrella.io/)
+
+## 其他
+* [git命令](https://github.com/Wscats/CV/issues/31)
