@@ -23,5 +23,5 @@
 
 ## 其他
 * [git命令](https://github.com/Wscats/CV/issues/31)
-*[检测包大小](https://bundlephobia.com/)
-*[检查漏洞](https://snyk.io/vuln/search?q=exceljs&type=any)
+* [检测包大小](https://bundlephobia.com/)
+* [检查漏洞](https://snyk.io/vuln/search?q=exceljs&type=any)
