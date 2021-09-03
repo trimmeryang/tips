@@ -6,6 +6,9 @@ docker run --name=mysql1 -p3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROO
 docker logs mysql1
 docker exec -it mysql1 bash
 docker exec -it mysql1 mysql -uroot -p
+
+SELECT host, user FROM mysql.user;
+update mysql.user set host='%' where user='root' and host = 'localhost';
 ```
 
 # docker volume create phpmyadmin-volume
